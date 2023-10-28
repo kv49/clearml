@@ -1,0 +1,5 @@
+clearml
+clearml-agent
+numpy
+matplotlib
+scikit-learn
